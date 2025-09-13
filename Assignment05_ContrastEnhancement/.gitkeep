@@ -1,1 +1,1 @@
-
+Perform Contrast stretching of a low contrast image to enhance the image quality and compare their Histogram. Perform Histogram Equalization to create uniform distribution of pixel intensities.
