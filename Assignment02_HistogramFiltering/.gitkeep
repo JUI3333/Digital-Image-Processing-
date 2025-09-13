@@ -1,0 +1,2 @@
+Read an image, plot its histogram then do histogram equalization. Comment about the
+result. Implement various spatial domain and frequency domain filters.
