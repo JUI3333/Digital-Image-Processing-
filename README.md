@@ -6,7 +6,6 @@ B.Tech I.T. Semester V
 Course: Fundamentals of Digital Image Processing
 
 📝 Repository Contents
-
 - **Assignment 1 — Image Enhancement**  
   - Read an 8-bit image and apply:  
     a) Brightness improvement  
