@@ -1,9 +1,9 @@
 Digital Image Processing (FDIP) – Assignments
 
 Name - Jui Sonawane
-PRN No. - 123B1F095
-B.Tech I.T. Semester V
-Course: Fundamentals of Digital Image Processing
+ PRN No. - 123B1F095
+  B.Tech I.T. Semester V
+ Course: Fundamentals of Digital Image Processing
 
 📝 Repository Contents
 - **Assignment 1 — Image Enhancement**  
